@@ -1,7 +1,7 @@
 # Predicting_House_Price_using_Python_&_SKLearn-Project
 Completed by: - Kushagra Anit Singh
 
-COLUMNS INFORMATION : -
+# COLUMNS INFORMATION : -
 CRIM per capita crime rate by town
 
 ZN proportion of residential land zoned for lots over 25,000 sq.ft.
