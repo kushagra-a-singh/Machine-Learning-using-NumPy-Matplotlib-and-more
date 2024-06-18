@@ -1,4 +1,4 @@
-# Predicting_House_Price_using_Python_&_SKLearn-Project
+# Predicting House Prices using Python & SKLearn
 
 COLUMNS INFORMATION: -
 CRIM per capita crime rate by town
