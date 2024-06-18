@@ -1,4 +1,11 @@
+# Machine Learning
 # Predicting House Prices using Python & SKLearn
+
+I got to learn about the following:
+
+Python
+Machine Learning
+Tensorflow
 
 COLUMNS INFORMATION: -
 CRIM per capita crime rate by town
