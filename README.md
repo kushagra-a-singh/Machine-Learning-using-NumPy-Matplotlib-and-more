@@ -1,22 +1,21 @@
 # Predicting_House_Price_using_Python_&_SKLearn-Project
-Completed by: - Kushagra Anit Singh
 
-# COLUMNS INFORMATION : -
+COLUMNS INFORMATION: -
 CRIM per capita crime rate by town
 
-ZN proportion of residential land zoned for lots over 25,000 sq.ft.
+ZN proportion of residential land zoned for lots over 25,000 sq. ft.
 
 INDUS proportion of non-retail business acres per town
 
 CHAS Charles River dummy variable (= 1 if tract bounds river; 0 otherwise)
 
-NOX nitric oxides concentration (parts per 10 million)
+NOX nitric oxide concentration (parts per 10 million)
 
 RM average number of rooms per dwelling
 
-AGE proportion of owner-occupied units built prior to 1940
+AGE proportion of owner-occupied units built before 1940
 
-DIS weighted distances to five Boston employment centres
+DIS weighted distances to five Boston employment centers
 
 RAD index of accessibility to radial highways
 
