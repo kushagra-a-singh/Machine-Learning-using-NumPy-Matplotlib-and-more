@@ -1,5 +1,5 @@
 # Machine Learning
-# Predicting House Prices using Python & SKLearn
+# Predicting House Prices using Python Libraries
 
 I got to learn about the following:<br>
 - Python for loading and processing model data.<br>
