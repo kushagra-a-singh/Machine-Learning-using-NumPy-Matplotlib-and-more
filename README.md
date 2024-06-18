@@ -4,10 +4,12 @@
 I got to learn about the following:
 
 Python
+
 Machine Learning
+
 Tensorflow
 
-COLUMNS INFORMATION: -
+<b>COLUMNS INFORMATION: -<b>
 CRIM per capita crime rate by town
 
 ZN proportion of residential land zoned for lots over 25,000 sq. ft.
